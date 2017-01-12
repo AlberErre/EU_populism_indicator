@@ -8,7 +8,7 @@ Develop an EU indicator to visualize the increase/decrease of populism/anti-glob
 
 2) Create binary attributes regarding the political parties (1 = non-populism, 0 = populism) and summarize the results per country.
 
-3) Analyze data and create indicators to represent the insight obtained, Python: Pandas, Numpy, SciPy libraries. (pdf populism indicators)
+3) Analyze data and create indicators to represent the insight obtained. Python: Pandas, Numpy, SciPy libraries. (pdf populism indicators)
 
 4) Develop visual analytic representation to obtain further information using Tableau and Python. (pdf visualization techniques)
 
