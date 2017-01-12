@@ -1,4 +1,4 @@
-# EU_populism_indicator
+# EU_populism_indicators
 
 # Goals:
 Develop an EU indicator to visualize the increase/decrease of populism/anti-globalization political parties, since 1990 in the European Union, Norway and Switzerland included and develop further data science/economic indicator to evaluate these trends. 
