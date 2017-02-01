@@ -14,8 +14,7 @@ Develop an EU indicator to visualize the increase/decrease of populism/anti-glob
 
 5) Clustering methods to obtain further information about patterns/behaviors between EU countries.
 
-# Status:
-Finished! - 18 december 2016
+# Steps taken:
 
 Stage 5: Writing down conclusions and summary of results in academic style [two papers obtained (pdf)]
 
@@ -29,5 +28,3 @@ stage 1: Data cleaning and preprocessing (wrangling) <- python wrangling
 
 stage 0: Obtaining data <- python scripting on web pages
 
-# Deadline: 
-18 December 2016 - Completed!
