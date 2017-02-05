@@ -1,5 +1,11 @@
 # EU_populism_indicators
 
+# Code (IPython notebook):
+https://github.com/AlberErre/EU_populism_indicator/blob/master/Python_populism_dataWrangling.ipynb
+
+# Results (pdf - academic style):
+https://github.com/AlberErre/EU_populism_indicator/blob/master/AlbertoRuiz_Geographical-Visual-investigations-populism.pdf
+
 # Goals:
 Develop an EU indicator to visualize the increase/decrease of populism/anti-globalization political parties, since 1990 in the European Union, Norway and Switzerland included and develop further data science/economic indicator to evaluate these trends. 
 
