@@ -7,7 +7,7 @@ https://github.com/AlberErre/EU_populism_indicator/blob/master/Python_populism_d
 https://github.com/AlberErre/EU_populism_indicator/blob/master/AlbertoRuiz_Geographical-Visual-investigations-populism.pdf
 
 # Goals:
-Develop an EU indicator to visualize the increase/decrease of populism/anti-globalization political parties, since 1990 in the European Union, Norway and Switzerland included and develop further data science/economic indicator to evaluate these trends. 
+Develop EU indicators to visualize the increase/decrease of populism/anti-globalization political parties since 1990 in the European Union, Norway and Switzerland included. Then, develop further data science/economic indicator to evaluate these trends and represent them using computer-visualization techniques.
 
 # Procedure:
 1) Python scripting (web scraping) to get elections results data from official EU databases.
@@ -19,6 +19,10 @@ Develop an EU indicator to visualize the increase/decrease of populism/anti-glob
 4) Develop visual analytic representation to obtain further information using Tableau and Python. (pdf visualization techniques)
 
 5) Clustering methods to obtain further information about patterns/behaviors between EU countries.
+
+6) Develop of shapefiles to represent the populism density among the EU (Visual-Computational technique)
+
+7) Use Tableau software to represent the insight obtained using visualization
 
 # Steps taken:
 
